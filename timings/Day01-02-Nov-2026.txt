@@ -1,1 +1,9 @@
-Git push
+What I did today
+
+1 hour - Linux command Practice and revision
+
+20 min - English Speaking
+
+1 hour - git setup and code push, along with ec2 configuration
+
+15 min - revised yesterday topic dns and ip address
